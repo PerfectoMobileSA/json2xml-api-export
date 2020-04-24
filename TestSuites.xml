@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites errors="0" failures="0" name="" tests="0" time="0.0">
+    <testsuite errors="0" failures="0" id="" name="" skipped="0" tests="0" time="0.0">
+        <properties>
+            <property name="automationFramework" value=""/>
+            <property name="owner" value=""/>
+            <property name="executionid" value=""/>
+            <property name="managementid" value=""/>
+            <property name="job-name" value=""/>
+            <property name="job-number" value=""/>
+            <property name="job-branch" value=""/>
+            <property name="startTime" value="0"/>
+            <property name="endTime" value="0"/>
+        </properties>
+    </testsuite>
+</testsuites>
